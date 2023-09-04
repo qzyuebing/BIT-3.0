@@ -9,7 +9,7 @@ config system
 	option conloglevel '8'
 	option cronloglevel '5'
 	option description 'MMDVM热点'
-	option hostname 'BI4PCS'
+	option hostname 'BIT3.0'
 
 config timeserver 'ntp'
 	list server 'ntp.tencent.com'

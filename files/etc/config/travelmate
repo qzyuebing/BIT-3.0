@@ -16,14 +16,6 @@ config uplink
 	option ssid 'BI4PCS'
 	option con_start_expiry '0'
 	option con_end_expiry '0'
-	option enabled '0'
-	option con_end '2023.06.07-18:49:50'
-
-config uplink
 	option enabled '1'
-	option device 'radio0'
-	option ssid '苏观-Hotel-2G'
-	option con_start_expiry '0'
-	option con_end_expiry '0'
-	option con_start '2023.06.07-18:52:57'
+	option con_start '2023.09.05-07:47:57'
 
