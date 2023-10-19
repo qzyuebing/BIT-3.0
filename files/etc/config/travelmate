@@ -17,5 +17,12 @@ config uplink
 	option con_start_expiry '0'
 	option con_end_expiry '0'
 	option enabled '1'
-	option con_start '2023.09.05-10:52:44'
+	option con_start '2023.10.19-08:05:03'
+
+config uplink
+	option enabled '1'
+	option device 'radio0'
+	option ssid '苏观-Hotel-2'
+	option con_start_expiry '0'
+	option con_end_expiry '0'
 

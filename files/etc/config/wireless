@@ -26,3 +26,12 @@ config wifi-iface 'trm_uplink3'
 	option key 'a88888888'
 	option disabled '0'
 
+config wifi-iface 'trm_uplink4'
+	option device 'radio0'
+	option mode 'sta'
+	option network 'trm_wwan'
+	option ssid '苏观-Hotel-2'
+	option encryption 'sae-mixed'
+	option key '05365265777'
+	option disabled '1'
+
